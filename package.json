@@ -10,5 +10,8 @@
     "node": ">=18"
   },
   "license": "UNLICENSED",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "redis": "^6.3.0"
+  }
 }
